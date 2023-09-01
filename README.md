@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @codedcauliflower
-- 👀 I’m interested in ... web development and software development.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, SQL, C#, and Python (...i have to learn R for course module)
-- 💞️ I’m looking to collaborate on ... nothing as of yet
-- 📫 How to reach me ... on here i guess
-## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedcauliflower&show_icons=true&theme=monokai&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="codedcauliflower" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codedcauliflower&show_icons=true&theme=monokai&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="codedcauliflower" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=codedcauliflower&theme=monokai&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500&type=png"/>
+</p>  
 <br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
