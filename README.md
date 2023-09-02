@@ -1,6 +1,8 @@
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedcauliflower&show_icons=true&theme=graywhite&locale=en&layout=compact&hide_border=true" alt="codedcauliflower" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=codedcauliflower&show_icons=true&theme=graywhite&locale=en&hide_border=true" alt="codedcauliflower" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedcauliflower&show_icons=true&theme=graywhite&locale=en&layout=compact&hide_border=true" alt="codedcauliflower" />
+  <br>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=codedcauliflower&show_icons=true&theme=graywhite&locale=en&hide_border=true" alt="codedcauliflower"/>
+  <br>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=codedcauliflower&theme=graywhite&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500&type=svg&hide_border=true"/>
 </p>  
 <div>
